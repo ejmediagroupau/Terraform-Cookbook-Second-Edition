@@ -8,7 +8,7 @@ terraform {
 
   cloud {
     hostname     = "app.terraform.io"
-    organization = "demoBook"
+    organization = "ejmediagroup"
 
     workspaces {
       name = "NetworkVM-state"
