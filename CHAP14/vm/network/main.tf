@@ -11,7 +11,7 @@ terraform {
     organization = "ejmediagroup"
 
     workspaces {
-      name = "NetworkVM-state"
+      name = "NetworkVM"
     }
   }
 
